@@ -1,0 +1,1 @@
+Main programs for controlling the TSight (a vibrotactile sensory substitution device) using Matlab. The device has a distance sensor, but we used a virtual one through Qualisys (a motion-capture software)
